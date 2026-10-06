@@ -1,9 +1,9 @@
 {
-  "name": "simply-theme",
-  "displayName": "Simply Theme",
+  "name": "simply-slate-theme",
+  "displayName": "Simply Slate Theme",
   "publisher": "kodekz01",
   "description": "A minimal dark theme with neutral gray surfaces, white text, and blue interface accents.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "icon": "assets/icon.png",
   "license": "MIT",
   "repository": {
@@ -19,9 +19,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Simply Dark",
+        "label": "Simply Slate",
         "uiTheme": "vs-dark",
-        "path": "./themes/simply-dark-color-theme.json"
+        "path": "./themes/simply-slate-color-theme.json"
       }
     ]
   }

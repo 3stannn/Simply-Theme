@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Simply Dark",
+  "name": "Simply Slate",
   "type": "dark",
   "semanticHighlighting": true,
   "colors": {

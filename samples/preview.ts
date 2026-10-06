@@ -1,4 +1,4 @@
-// Simply Theme — syntax preview
+// Simply Slate Theme — syntax preview
 interface Theme {
   name: string;
   colors: string[];
@@ -6,7 +6,7 @@ interface Theme {
 }
 
 const theme: Theme = {
-  name: "Simply Dark",
+  name: "Simply Slate",
   colors: ["#72C7B8", "#B9A3E3", "#E5BC83"],
   enabled: true,
 };
