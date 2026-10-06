@@ -1,0 +1,22 @@
+{
+  "name": "simply-theme",
+  "displayName": "Simply Theme",
+  "publisher": "kodekz01",
+  "description": "A minimal dark theme with neutral gray surfaces, white text, and blue interface accents.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Simply Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/simply-dark-color-theme.json"
+      }
+    ]
+  }
+}
