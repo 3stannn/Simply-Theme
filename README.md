@@ -4,13 +4,15 @@ A minimal dark theme for Visual Studio Code. Simply Dark pairs a deep charcoal b
 
 ## Features
 
-- `#171717` editor and status bar backgrounds.
+- `#171717` editor, integrated terminal, and status bar backgrounds.
 - `#F5F5F5` main text for a clear, consistent reading experience.
 - `#424242` buttons, activity bar icons, and focus borders.
 - Neutral gray selections, menus, and autocomplete suggestions.
 - Blue links, verified publisher badges, and progress indicators.
 - Orange keywords, red variables and tags, green strings, blue functions, and purple types.
 - Syntax highlighting for HTML, JavaScript, TypeScript, JSX, and TSX, with semantic highlighting support.
+
+- Matching ANSI terminal colors, white cursor, and neutral gray selections across VS Code terminal profiles.
 
 ## Install
 
