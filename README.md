@@ -1,6 +1,6 @@
 # Simply Theme
 
-A minimal dark theme for Visual Studio Code. Simply Dark pairs a deep charcoal background with crisp white text, neutral gray controls, and blue accents. React-inspired syntax colors help keep your code easy to scan.
+A minimal dark theme for Visual Studio Code. Simply Dark pairs a deep charcoal background with crisp white text, neutral gray controls, and blue accents. Warm syntax colors help keep your code easy to scan.
 
 ## Features
 
@@ -9,7 +9,7 @@ A minimal dark theme for Visual Studio Code. Simply Dark pairs a deep charcoal b
 - `#424242` buttons, activity bar icons, and focus borders.
 - Neutral gray selections, menus, and autocomplete suggestions.
 - Blue links, verified publisher badges, and progress indicators.
-- Cyan tags and types, blue keywords and functions, green strings, and orange numbers.
+- Orange keywords, red variables and tags, green strings, blue functions, and purple types.
 - Syntax highlighting for HTML, JavaScript, TypeScript, JSX, and TSX, with semantic highlighting support.
 
 ## Install
@@ -48,3 +48,7 @@ Found a color that needs attention? [Open an issue](https://github.com/3stannn/S
 4. Open the files in `samples/` to preview TypeScript, HTML, and React syntax.
 
 Edit `themes/simply-dark-color-theme.json` to customize the theme. The `colors` section defines the interface palette, `tokenColors` defines syntax colors, and `semanticTokenColors` defines language-aware colors.
+
+## License
+
+Licensed under the [MIT License](LICENSE).

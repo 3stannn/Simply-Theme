@@ -3,7 +3,13 @@
   "displayName": "Simply Theme",
   "publisher": "kodekz01",
   "description": "A minimal dark theme with neutral gray surfaces, white text, and blue interface accents.",
-  "version": "0.0.2",
+  "version": "0.0.3",
+  "icon": "assets/icon.png",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/3stannn/Simply-Theme.git"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
