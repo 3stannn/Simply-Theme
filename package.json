@@ -3,7 +3,7 @@
   "displayName": "Simply Theme",
   "publisher": "kodekz01",
   "description": "A minimal dark theme with neutral gray surfaces, white text, and blue interface accents.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.85.0"
   },
